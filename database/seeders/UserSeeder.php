@@ -8,9 +8,7 @@ use App\Models\User;
 class UserSeeder extends Seeder
 {
     /**
-     * Запуск сида.
-     *
-     * @return void
+     * Run the database seeds.
      */
     public function run()
     {
